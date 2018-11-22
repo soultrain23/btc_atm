@@ -1,2 +1,1 @@
-# btc_atm
-hahaha
+I changed the simple market maker from bitmex. Short and long will be betted according to the moving average. When i simulated it with a polonix chart 10 times the leverage rate, the monthly profit was 300 percent. Still studying.
